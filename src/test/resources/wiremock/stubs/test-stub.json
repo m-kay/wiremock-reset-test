@@ -1,0 +1,14 @@
+{
+  "priority": 1,
+  "request": {
+    "urlPath": "/test-request",
+    "method": "GET"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "test-response.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
